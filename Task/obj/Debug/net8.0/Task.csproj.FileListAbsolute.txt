@@ -1,0 +1,15 @@
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/bin/Debug/net8.0/Task
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/bin/Debug/net8.0/Task.deps.json
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/bin/Debug/net8.0/Task.runtimeconfig.json
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/bin/Debug/net8.0/Task.dll
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/bin/Debug/net8.0/Task.pdb
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/obj/Debug/net8.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/obj/Debug/net8.0/Task.AssemblyInfoInputs.cache
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/obj/Debug/net8.0/Task.AssemblyInfo.cs
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/obj/Debug/net8.0/Task.csproj.CoreCompileInputs.cache
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/obj/Debug/net8.0/Task.sourcelink.json
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/obj/Debug/net8.0/Task.dll
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/obj/Debug/net8.0/refint/Task.dll
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/obj/Debug/net8.0/Task.pdb
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/obj/Debug/net8.0/Task.genruntimeconfig.cache
+/Users/viktor/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains/FinalTest202405/Task/obj/Debug/net8.0/ref/Task.dll
