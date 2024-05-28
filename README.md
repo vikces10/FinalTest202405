@@ -30,3 +30,6 @@
 > Файл [Program.cs](Task/Program.cs "Код") в директории [Task](Task "Папка").
 
 #### Также в репозиториуме содержится блок-схема алгоритма [Flowchart](Flowchart.drawio "Блок-схема").
+
+![Flowchart](Flowchart.png "Flowchart.png")
+
